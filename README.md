@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&animation=fadeIn&text=Rajendra%20Arya&fontSize=42&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rajendra Arya</h1>
 <h3 align="center">Laravel Developer | Web Application Builder</h3>
 
@@ -22,27 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jendraarya&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jendraarya&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=jendraarya&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="160"
-  />
-</p>
-
----
-
 ### 📌 Featured Project
 - 🚀 **Website Monitoring Poin Pelanggaran** – Sistem Informasi Manajemen Akademik  
   👉 https://github.com/jendraarya/simak-smk1tgrbws
@@ -50,5 +33,6 @@
 ---
 
 ### 📫 Contact
-- 📧 Email: jendraaryaa04@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/rajendra-arya-3983ba3aa/
+- 📧 Email: jendraaryaa04@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/rajendra-arya-3983ba3aa/  
+- 📸 Instagram: https://instagram.com/jendraaryaa_
